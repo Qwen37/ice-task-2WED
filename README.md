@@ -17,7 +17,7 @@ A responsive one-page website for a fictional IT Tech Store that sells electroni
 You can deploy this site using GitHub Pages or any static hosting service.
 
 ## Screenshots
-![Screenshot](screenshot.png)
+<img width="1641" height="840" alt="Screenshot 2025-09-15 150110" src="https://github.com/user-attachments/assets/850f2c4e-529d-4a79-9c72-7c132f0d4fe2" />
 
 ## License
 This project is for educational purposes.
