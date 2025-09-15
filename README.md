@@ -1,4 +1,4 @@
-# ice-task-2
+# ice-task-2WED
 # IT Tech Store
 
 A responsive one-page website for a fictional IT Tech Store that sells electronic devices such as laptops, phones, tablets, and accessories.
